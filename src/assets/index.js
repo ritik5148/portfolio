@@ -30,6 +30,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import achnet from "./company/achnet.png";
+import storylinez from "./company/storylinez.svg";
+import aviac from "./company/aviac.webp";
+
 export {
   logo,
   backend,
@@ -59,4 +63,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  achnet,
+  storylinez,
+  aviac,
 };
